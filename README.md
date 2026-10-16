@@ -1,5 +1,5 @@
-# SCT_WD_1
-TechSpark 2.0 – A modern and responsive Tech Fest Landing Page created for A.S. Patil College of Commerce, Vijayapura. | SkillCraft Technology Web Development Internship – Task 1
+
+TechSpark 2.0 – A modern and responsive Tech Fest Landing Page created for A.S. Patil College of Commerce, Vijayapura. 
 # 🚀 TECHSPARK 2.0
 
 ### Ignite Ideas. Build the Future.
